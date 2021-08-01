@@ -1,0 +1,25 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cc.dync.audio_manager" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+5-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:4:5-67
+7-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.WAKE_LOCK" />
+8-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:5:5-68
+8-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:5:22-65
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+9-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:6:5-77
+9-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:6:22-74
+10
+11    <application>
+11-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:8:5-10:19
+12        <service android:name="cc.dync.audio_manager.MediaPlayerService" />
+12-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:9:9-55
+12-->/Users/satriantorobimobimo/development/flutter/.pub-cache/hosted/pub.dartlang.org/audio_manager-0.8.1/android/src/main/AndroidManifest.xml:9:18-52
+13    </application>
+14
+15</manifest>

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+id image
+id iv_cancel
+id iv_next
+id iv_pause
+id layout_desc
+id tv_author
+id tv_name
+layout layout_mediaplayer
+string desc
+string title
